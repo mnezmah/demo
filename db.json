@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Prvi 1" },
+    { "id": 2, "title": "Drugi 2" },
+    { "id": 3, "title": "Tretji 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "komentiram te po nozi", "postId": 1 },
+    { "id": 2, "body": "skomentirja se po ruci", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Fake api"
   }
 }
